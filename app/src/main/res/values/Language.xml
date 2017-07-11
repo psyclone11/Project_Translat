@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="language">
+        <item>Thai</item>
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Croatian</item>
+        <item>Dutch</item>
+        <item>Japanese</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
